@@ -16,6 +16,7 @@ This repository contains the frontend for the Holidaze venue booking application
 
 ```bash
 npm install
+npx playwright install
 ```
 
 ## Scripts
